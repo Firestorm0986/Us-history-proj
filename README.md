@@ -1,6 +1,5 @@
-# Team SLAAT
-
-Website link: [https://firestorm0986.github.io/SLAAT/](https://firestorm0986.github.io/SLAAT/)
+# War Heros
+for US History
 
 ```sh
 git clone https://github.com/Firestorm0986/SLAAT.git
